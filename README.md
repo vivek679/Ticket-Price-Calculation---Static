@@ -16,13 +16,14 @@ public int calculateTicketCost(int nooftickets) —this method should check the 
 Write a main method in the Main class to test the application.
 
 Sample input and output
-
   //************************************* PHASE 1
+  
   Enter no of bookings:
   2
   Enter the available tickets:
   25
   //************************************* PHASE 2
+  
   Enter the ticketid:
   123
   Enter the price:
@@ -30,10 +31,12 @@ Sample input and output
   Enter the no of tickets:
   5
   //************************************* PHASE 3
+  
   Available tickets: 25
   Total amount:500
   Available ticket after booking:20
   //************************************* PHASE 2
+  
   Enter the ticketid:
   124
   Enter the price:
@@ -41,6 +44,7 @@ Sample input and output
   Enter the no of tickets:
   2
   //************************************* PHASE 3
+  
   Available tickets: 20
   Total amount:200
   Available ticket after booking:18
